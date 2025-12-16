@@ -6,31 +6,31 @@ Estou construindo meu portfólio com projetos práticos, utilizando dados reais,
 
 🎯 Foco atual
 
-Análise Exploratória de Dados (EDA)
+- Análise Exploratória de Dados (EDA)
 
-Visualização de dados
+- Visualização de dados
 
-Dashboards interativos (Dash / Plotly)
+- Dashboards interativos (Dash / Plotly)
 
-Python aplicado à análise de dados
+- Python aplicado à análise de dados
 
-Início dos estudos em PySpark
+- Início dos estudos em PySpark
 
 🛠️ Tecnologias e Ferramentas
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Matplotlib & Seaborn
+- Matplotlib & Seaborn
 
-Plotly & Dash
+- Plotly & Dash
 
-SQL (básico)
+- SQL (básico)
 
-Google Sheets
+- Google Sheets
 
-Git & GitHub
+- Git & GitHub
 
 📊 Projetos em destaque
 
@@ -40,31 +40,31 @@ Exploração, tratamento e visualização de dados de vendas, com foco em padrõ
 
 📚 Formação e Aprendizado
 
-Graduando em Análise e Desenvolvimento de Sistemas
+- Graduando em Análise e Desenvolvimento de Sistemas
 
-Curso profissionalizante em Análise de Dados – EBAC
+- Curso profissionalizante em Análise de Dados – EBAC
 
-Python para análise de dados
+  - Python para análise de dados
 
-Visualização com Matplotlib, Seaborn e Plotly
+  - Visualização com Matplotlib, Seaborn e Plotly
 
-Dashboards interativos
+  - Dashboards interativos
 
-PySpark (em andamento)
+  - PySpark (em andamento)
 
-Google Looker
+  - Google Looker
 
 🌱 Em desenvolvimento
 
 Atualmente focado em:
 
-Projetos práticos para portfólio
+- Projetos práticos para portfólio
 
-Consolidação da base em análise exploratória
+- Consolidação da base em análise exploratória
 
-Escalando análises com PySpark
+- Escalando análises com PySpark
 
-Boas práticas de visualização e storytelling com dados
+- Boas práticas de visualização e storytelling com dados
 
 📫 Contato
 
