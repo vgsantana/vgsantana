@@ -1,74 +1,43 @@
-## 👋 Olá, eu sou Victor Gabriel
+# 📊 Victor Gabriel Santana
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados, atualmente aprofundando meus conhecimentos em Python, Pandas, visualização de dados e dashboards interativos.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados. Tenho interesse em transformar dados em informações úteis para apoiar a tomada de decisão, utilizando ferramentas amplamente usadas no mercado.
 
-Estou construindo meu portfólio com projetos práticos, utilizando dados reais, com o objetivo de desenvolver a capacidade de explorar dados, identificar padrões e gerar insights que apoiem a tomada de decisão.
+Atualmente, trabalho com Python, Pandas, SQL e BigQuery, desenvolvendo projetos práticos de análise exploratória, consultas em bases de dados e visualização de dados. Também possuo experiência na criação de dashboards no Looker Studio e aplicações simples para visualização de dados.
 
-🎯 Foco atual
+Estou em constante aprendizado, buscando evoluir tecnicamente e construir uma base sólida em dados por meio de projetos práticos e estudos contínuos. Meu objetivo é conquistar uma oportunidade de estágio ou vaga júnior na área de dados, onde eu possa aprender na prática e gerar valor para o negócio.
 
-- Análise Exploratória de Dados (EDA)
+# 🛠️ Tecnologias & Ferramentas
 
-- Visualização de dados
+Python
 
-- Dashboards interativos (Dash / Plotly)
+Pandas
 
-- Python aplicado à análise de dados
+SQL
 
-- Início dos estudos em PySpark
+BigQuery
 
-🛠️ Tecnologias e Ferramentas
+Visualização de Dados
 
-- Python
+Looker Studio
 
-- Pandas
+Dash / Plotly
 
-- Matplotlib & Seaborn
+Git & GitHub
 
-- Plotly & Dash
+# 📂 Projetos em destaque
 
-- SQL (básico)
+Análise Exploratória de Dados – E-commerce
+Exploração de vendas, preços, descontos e avaliações
 
-- Google Sheets
+Visualização de Dados com Python
+Gráficos com Matplotlib, Seaborn e Plotly
 
-- Git & GitHub
+Dashboard Web com Dash
+Aplicação web para visualização interativa de dados
 
-📊 Projetos em destaque
+(Links disponíveis nos repositórios)
 
-🔹 Análise Exploratória de Vendas – E-commerce
-Exploração, tratamento e visualização de dados de vendas, com foco em padrões de consumo, preços, descontos e avaliações.
-👉 https://github.com/vgsantana/projeto_analise_dados_py
+# 📫 Contato
 
-📚 Formação e Aprendizado
-
-- Graduando em Análise e Desenvolvimento de Sistemas
-
-- Curso profissionalizante em Análise de Dados – EBAC
-
-  - Python para análise de dados
-
-  - Visualização com Matplotlib, Seaborn e Plotly
-
-  - Dashboards interativos
-
-  - PySpark (em andamento)
-
-  - Google Looker
-
-🌱 Em desenvolvimento
-
-Atualmente focado em:
-
-- Projetos práticos para portfólio
-
-- Consolidação da base em análise exploratória
-
-- Escalando análises com PySpark
-
-- Boas práticas de visualização e storytelling com dados
-
-📫 Contato
-
-💼 LinkedIn: www.linkedin.com/in/vgsantana-py
-
-📂 GitHub: https://github.com/vgsantana
+LinkedIn: https://www.linkedin.com/in/vgsantana-py
 
