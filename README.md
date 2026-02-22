@@ -35,6 +35,9 @@ Gráficos com Matplotlib, Seaborn e Plotly
 Dashboard Web com Dash
 Aplicação web para visualização interativa de dados
 
+Análise de Funil de Marketing e Receita
+Análise de Leads, conversões e receita
+
 (Links disponíveis nos repositórios)
 
 # 📫 Contato
