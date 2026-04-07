@@ -2,11 +2,13 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados. Tenho interesse em transformar dados em informações úteis para apoiar a tomada de decisão, utilizando ferramentas amplamente usadas no mercado.
 
-Atualmente, trabalho com Python, Pandas, SQL e BigQuery, desenvolvendo projetos práticos de análise exploratória, consultas em bases de dados e visualização de dados. Também possuo experiência na criação de dashboards no Looker Studio e aplicações simples para visualização de dados.
+Atualmente, trabalho com Excel, Python, Pandas, SQL e BigQuery, desenvolvendo projetos práticos de análise exploratória, consultas em bases de dados e visualização de dados. Também possuo experiência na criação de dashboards no Looker Studio e aplicações simples para visualização de dados.
 
 Estou em constante aprendizado, buscando evoluir tecnicamente e construir uma base sólida em dados por meio de projetos práticos e estudos contínuos. Meu objetivo é conquistar uma oportunidade de estágio ou vaga júnior na área de dados, onde eu possa aprender na prática e gerar valor para o negócio.
 
 # 🛠️ Tecnologias & Ferramentas
+
+Excel
 
 Python
 
